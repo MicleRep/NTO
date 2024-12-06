@@ -1,0 +1,182 @@
+{
+  "idSave": 458,
+  "isFirstSession": false,
+  "language": "ru",
+  "promptDone": false,
+  "money": 1,
+  "newPlayerName": "Hello!",
+  "openLevels": [
+    false,
+    true,
+    false
+  ],
+  "units": [
+    {
+      "_cost": 0,
+      "_upLevel": 0,
+      "_upgrade": {
+        "_cost": 50,
+        "_plusPerLevel": 30,
+        "_hp": 1.0,
+        "_damage": 0.2
+      },
+      "_unlocked": true,
+      "_damage": 1.0,
+      "_hp": 5.0
+    },
+    {
+      "_cost": 200,
+      "_upLevel": 0,
+      "_upgrade": {
+        "_cost": 75,
+        "_plusPerLevel": 35,
+        "_hp": 2.0,
+        "_damage": 0.05
+      },
+      "_unlocked": true,
+      "_damage": 0.175,
+      "_hp": 10.0
+    },
+    {
+      "_cost": 250,
+      "_upLevel": 0,
+      "_upgrade": {
+        "_cost": 100,
+        "_plusPerLevel": 40,
+        "_hp": 3.0,
+        "_damage": 0.5
+      },
+      "_unlocked": true,
+      "_damage": 2.5,
+      "_hp": 14.0
+    },
+    {
+      "_cost": 400,
+      "_upLevel": 0,
+      "_upgrade": {
+        "_cost": 150,
+        "_plusPerLevel": 50,
+        "_hp": 4.0,
+        "_damage": 1.5
+      },
+      "_unlocked": true,
+      "_damage": 5.0,
+      "_hp": 15.0
+    },
+    {
+      "_cost": 600,
+      "_upLevel": 0,
+      "_upgrade": {
+        "_cost": 200,
+        "_plusPerLevel": 70,
+        "_hp": 1.5,
+        "_damage": 1.0
+      },
+      "_unlocked": true,
+      "_damage": 3.0,
+      "_hp": 8.0
+    },
+    {
+      "_cost": 300,
+      "_upLevel": 0,
+      "_upgrade": {
+        "_cost": 100,
+        "_plusPerLevel": 20,
+        "_hp": 4.0,
+        "_damage": 1.2
+      },
+      "_unlocked": true,
+      "_damage": 5.0,
+      "_hp": 5.0
+    },
+    {
+      "_cost": 450,
+      "_upLevel": 0,
+      "_upgrade": {
+        "_cost": 150,
+        "_plusPerLevel": 50,
+        "_hp": 2.0,
+        "_damage": 1.0
+      },
+      "_unlocked": true,
+      "_damage": 4.0,
+      "_hp": 13.0
+    },
+    {
+      "_cost": 500,
+      "_upLevel": 0,
+      "_upgrade": {
+        "_cost": 150,
+        "_plusPerLevel": 50,
+        "_hp": 2.0,
+        "_damage": 1.5
+      },
+      "_unlocked": true,
+      "_damage": 4.0,
+      "_hp": 15.0
+    },
+    {
+      "_cost": 800,
+      "_upLevel": 0,
+      "_upgrade": {
+        "_cost": 200,
+        "_plusPerLevel": 80,
+        "_hp": 30.0,
+        "_damage": 0.1
+      },
+      "_unlocked": true,
+      "_damage": 3.0,
+      "_hp": 15.0
+    },
+    {
+      "_cost": 800,
+      "_upLevel": 0,
+      "_upgrade": {
+        "_cost": 0,
+        "_plusPerLevel": 0,
+        "_hp": 0.0,
+        "_damage": 0.0
+      },
+      "_unlocked": true,
+      "_damage": 0.0,
+      "_hp": 0.0
+    },
+    {
+      "_cost": 800,
+      "_upLevel": 0,
+      "_upgrade": {
+        "_cost": 0,
+        "_plusPerLevel": 0,
+        "_hp": 0.0,
+        "_damage": 0.0
+      },
+      "_unlocked": true,
+      "_damage": 0.0,
+      "_hp": 0.0
+    },
+    {
+      "_cost": 800,
+      "_upLevel": 0,
+      "_upgrade": {
+        "_cost": 0,
+        "_plusPerLevel": 0,
+        "_hp": 0.0,
+        "_damage": 0.0
+      },
+      "_unlocked": true,
+      "_damage": 0.0,
+      "_hp": 0.0
+    }
+  ],
+  "_coins": 60,
+  "_unN": 2,
+  "_unP": 0,
+  "_level": 1,
+  "_opened": 9,
+  "_hpCost": 50,
+  "_steelCost": 60,
+  "_aiHP": 11.0,
+  "_difficulty": 0.253,
+  "_steel": 0.25,
+  "_hp": 10.0
+}

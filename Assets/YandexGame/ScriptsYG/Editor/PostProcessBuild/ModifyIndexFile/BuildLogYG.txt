@@ -1,0 +1,2 @@
+Build path: C:/Users/Misha/Desktop/Unity G Web/Strategy
+Build number: 48
